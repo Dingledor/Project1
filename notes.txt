@@ -1,0 +1,2 @@
+Images for each channel of the tv
+Progress bar for volume
